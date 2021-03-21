@@ -1,0 +1,18 @@
+# Testing and code checking
+hypothesis
+pytest
+python-ta
+typing
+
+# Graphics and data visualization
+pandas
+numpy
+plotly
+pygame-menu
+pygame==2.0.0.dev10
+
+# Twitter API
+Twython
+
+# Other
+dataclasses
